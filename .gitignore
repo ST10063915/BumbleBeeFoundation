@@ -2,6 +2,3 @@
 # Ignore Firebase Admin SDK JSON
 BumbleBeeFoundation/Secrets/bumble-bee-foundation-firebase-adminsdk.json
 
-# Ignore build outputs
-BumbleBeeFoundation/bin/
-BumbleBeeFoundation/obj/
